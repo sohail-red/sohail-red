@@ -1,6 +1,6 @@
 ## Hi there, Sohail 👋
 
-🎓 PhD Fellow 
+🎓 PhD Fellow  
 🌏 Computational Geodynamics  
 🏛️ ECS, IISER Pune  
 📍 Pune, India  
