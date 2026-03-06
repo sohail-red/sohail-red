@@ -1,7 +1,7 @@
-## Hi there, Sohail 👋
+## Hi, 👋
 
 🎓 PhD Fellow  
-🌏 Computational Geodynamics  
+🌏 Geodynamics  
 🏛️ ECS, IISER Pune  
 📍 Pune, India  
 📫 Email: md.sohailkhan@students.iiserpune.ac.in  
